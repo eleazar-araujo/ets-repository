@@ -651,7 +651,7 @@ return
 										<translationTemplate ref="TR.recordsWithErrors"/>
 									</translationTemplates>
 								</TestAssertion>
-								<TestAssertion id="EIDf55fae32-c30a-4fa6-9ef4-201d5fa4d02f">
+								<!-- <TestAssertion id="EIDf55fae32-c30a-4fa6-9ef4-201d5fa4d02f">
 									<label>md-iso.c.2: Dataset language</label>
 									<description><![CDATA[<p>If the type of the resource is dataset or series, a resource language must be given.<br/><br/>
 This test case only applies to records with a hierarchyLevel value 'dataset' or 'series'.</p>
@@ -694,7 +694,7 @@ return
 										<translationTemplate ref="TR.invalidLanguageCode"/>
 										<translationTemplate ref="TR.recordsWithErrors"/>
 									</translationTemplates>
-								</TestAssertion>
+								</TestAssertion>-->
 								<TestAssertion id="EIDbab97b1b-4ffe-4ac7-be22-16d10e3ed3dd">
 									<label>md-iso.c.3: Dataset linkage</label>
 									<description><![CDATA[<p>This test checks each resource locator URL, if it is syntactically correct and if the resource it references can be accessed, in order to determine its type. If the referenced resource is recognized as a Network Service, it checks whether the linkage to the dataset is declared and implemented.</p>
