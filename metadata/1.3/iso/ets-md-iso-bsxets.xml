@@ -290,7 +290,7 @@ return
 										<translationTemplate ref="TR.recordsWithErrors"/>
 									</translationTemplates>
 								</TestAssertion>
-								<TestAssertion id="EID22ba60c4-0d3a-44a1-a0b1-db2d7c75836c">
+								<!-- <TestAssertion id="EID22ba60c4-0d3a-44a1-a0b1-db2d7c75836c">
 									<label>md-iso.a.6: Language</label>
 									<description><![CDATA[<p>The test checks that a gmd:LanguageCode object is given at gmd:language and contains a codeListValue attribute. It is then checked if the codeListValue attribute contains a valid 3-letter language code according to ISO 639-2/B of one of the official languages.</br></br>
 Relevant requirement(s):</p>
@@ -327,7 +327,7 @@ return
 										<translationTemplate ref="TR.invalidMetadataLanguageCode"/>
 										<translationTemplate ref="TR.recordsWithErrors"/>
 									</translationTemplates>
-								</TestAssertion>
+								</TestAssertion> -->
 								<TestAssertion id="EID77f31952-b3e1-432f-80cc-682af11d1d5f">
 									<label>md-iso.a.7: Metadata contact</label>
 									<description><![CDATA[<p>The test checks, if a contact element (gmd:contact) is given. It then performs the following checks for every element:
