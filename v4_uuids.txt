@@ -20,6 +20,7 @@ EIDaeed5629-2c33-4fa6-aa66-f59418abaa70 Tag 'Interoperable data sets in GML'
 EIDe51620af-bcf5-4719-ab0e-ef6226a572fa Tag ‘Download Services’
 EID3b9846c7-3940-4795-ae1d-0b5d82375c76 Tag 'Metadata'
 EID54d5f755-e20c-40a7-ab72-5600c71dd049 Tag 'Basic tests'
+EIDfe1f3796-0ebf-4960-a6f7-f935e087fa4c Tag 'haleconnect custom tests'
 
 ** Data Specifications
 
