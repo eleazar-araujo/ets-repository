@@ -1672,7 +1672,7 @@ In other cases, gmd:otherConstraints shall include a non-empty free text element
           </translationTemplates>
          </LangTranslationTemplateCollection>
 	  
-	</translationTemplateCollections>
+	
 
 	<!-- ETS Errors for Haleconnect generated test suites -->
 	<LangTranslationTemplateCollection name="TR.missingMandatoryTypeError">
@@ -1720,5 +1720,5 @@ In other cases, gmd:otherConstraints shall include a non-empty free text element
 		 <TranslationTemplate language="en" name="TR.invalidPropertyValueError">XML document '{filename}', record '{fileIdentifier}': The property '{propName}' in the element with localName '{localName}' and namespace '{namespace}' contains the invalid value '{valueFound}'. Allowed values are ({allowedValues})</TranslationTemplate>
 		</translationTemplates>
 	 </LangTranslationTemplateCollection>
- </translationTemplateCollections>
+	</translationTemplateCollections>
 </TranslationTemplateBundle>
